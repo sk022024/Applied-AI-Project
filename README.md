@@ -1,4 +1,4 @@
-# Applied-AI-Project-Predicting the energy efficiency of buildings
+# Predicting the energy efficiency of buildings-Applied-AI-Project
 
 ## Project Overview
 This project analyzes energy consumption in buildings and provides actionable business recommendations based on predictive modeling. The analysis focuses on heating and cooling loads and identifies the key drivers affecting energy demand.  
